@@ -1,0 +1,24 @@
+#bgcolourchange{ color: rgb(203, 12, 12); background: rgb(88, 86, 86);}
+.linecolour { color: orange; background: rgb(118, 129, 129);}
+h1{
+    color: rgb(246, 21, 21);
+}
+p{ color: brown;}
+h1{border-color: rgb(244, 47, 12);
+border-width: thick;}
+p{
+    color: royalblue;
+}
+h2{ color: rgb(230, 10, 10);}
+
+ul{ color: rgb(134, 113, 197,5.99);}
+h3{color: rgb(229, 15, 168);}
+
+li{color: rgb(16, 19, 237);}
+
+body{
+    background: url(https://png.pngtree.com/thumb_back/fh260/background/20210823/pngtree-simple-aesthetic-wallpapers-image_768350.jpg);
+
+background-size:auto ;}
+
+
